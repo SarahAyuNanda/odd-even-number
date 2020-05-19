@@ -1,2 +1,3 @@
 # odd-even-number
-I tried to determine if it is even or odd number for all the numbers in the sequence with a certain limit
+Input any number, let say n, as an upper boundary
+There will be shown a sequence starts from 1 to n and type of all the numbers if it's even or odd
